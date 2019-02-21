@@ -29,8 +29,8 @@
 .ul li {list-style-image: url("../images/arrow-icon.png");margin-left:15px;}
 .scroll-menu a div{color:#FFF !important;}
 .date {background-color: #2985c5;display: inline-block;margin: 4px;padding: 2px 0;}
-.btn-group .btn.eactive{background-color:#F68121 !important;color:#FFF;border-color:#F68121 !important}
-.btn-primary, .btn-secondary, .btn-success, .btn-danger, .btn-warning, .btn-info, .btn-light, .btn-dark, .btn-link{background-color:#f68220 !important;border:#f68220 !important;}
+.btn-group .btn.eactive{background-color:#283593 !important;color:#FFF;border-color:#283593 !important}
+.btn-primary, .btn-secondary, .btn-success, .btn-danger, .btn-warning, .btn-info, .btn-light, .btn-dark, .btn-link{background-color:#283593 !important;border:#f68220 !important;}
 .date .h2 {color: #ffffff;float: left;font-size: 14px;margin: 0;padding: 4px;}
 .date .h3 {background-color: #fff;float: left;font-size: 13px;margin: 1px 3px 1px 0; padding: 4px;}
 .pa0 {padding: 0 !important;}
@@ -219,8 +219,8 @@
 #primary-menu.sub-title ul li a{padding:18px 10px 27px;}
 #primary-menu.sub-title ul li.home a{padding:28px 10px 21px;}
 #top-social li, #top-social li a, #top-social li .ts-icon, #top-social li .ts-text{font-size:11px; height:34px;line-height:34px;}
-.top-links li:hover {background-color: #f68220;}
-.nest-result{background-color: #f68220;	color:#fff !important;}
+.top-links li:hover {background-color: #283593;}
+.nest-result{background-color: #283593;	color:#fff !important;}
 #header{border-bottom:0;}
 .white-bg{background:#fff !important;}
 .entry-title h2 {font-size: 18px;font-weight: 400;letter-spacing: 0.3px;margin: 0 0 15px;text-transform: capitalize;}
@@ -232,15 +232,15 @@
 .more-link:hover{color:#2985c5;}
 .more-link img{display:inline-block !important;vertical-align: baseline;}
 .grid-outer .entry{border:0;margin:0;padding:0;}
-.entry blockquote p {font-weight: 400;font-style: normal;color:#f58220;}
+.entry blockquote p {font-weight: 400;font-style: normal;color:#283593;}
 .grid-outer blockquote {border-left: 0;font-size: 17.5px;padding: 0;}
 .grid-outer blockquote  footer{color:#2985c5;}
 .grid-outer-padding {padding:40px!important; background: #FFF; box-shadow: 0 0 20px #ccc;}
 .home-bg{background:#fafafa;}
-.home-think{color:#f58220;font-size:50px;font-weight:200;line-height: 41px;position:relative;}
+.home-think{color:#283593;font-size:50px;font-weight:200;line-height: 41px;position:relative;}
 .home-think span{ color: #242121;}
 .home-tagline{font-size:20px;color:#211e1e;line-height:7px;}
-.apply-now{font-size: 20px ;color:#fff;padding:17px 28px;font-weight:bold;text-transform:uppercase;background-color:#f58220;border-radius:2px;letter-spacing:0 !important;text-shadow:none !important;}
+.apply-now{font-size: 20px ;color:#fff;padding:17px 28px;font-weight:bold;text-transform:uppercase;background-color:#283593;border-radius:2px;letter-spacing:0 !important;text-shadow:none !important;}
 .apply-now img{vertical-align: initial;}
 .action-btn ul{list-style: outside none none; text-align: center;margin-bottom:4px;}
 .action-btn ul li{display:inline-block;}
@@ -254,7 +254,7 @@
 .grid-innr{background:#FFF;box-shadow:0 0 20px #ccc;margin-bottom:20px;}
 .load-more-btn{padding:	14px 22px !important;border:1px solid #2985c5 !important;background:transaprent;font-size:14px !important;text-transform:none !important;color:#2985c5 !important;height:auto !important;line-height:0 !important;font-weight:400 !important;}
 .load-more-btn:hover{background-color:#2985c5 !important;color:#fff !important;}
-.dark .i-plain {color: #f58220;}
+.dark .i-plain {color: #283593;}
 .counter {color: #232020;}
 .counter img{margin-top:4px;}
 .counter + h5{font-weight:200;color: #6f6f6f;margin:0;}
@@ -265,7 +265,7 @@
 .heading-block strong{color:#232020;}
 #primary-menu.sub-title > ul > li:hover > a, #primary-menu.sub-title > ul > li.current > a, #primary-menu.sub-title > div > ul > li:hover > a, #primary-menu.sub-title > div > ul > li.current > a{background-color: #f58220;}
 #primary-menu ul ul a {color: #929292 !important;}
-#primary-menu ul ul, #primary-menu ul li .mega-menu-content{border-color: #f58220 #eee #eee;}
+#primary-menu ul ul, #primary-menu ul li .mega-menu-content{border-color: #283593 #eee #eee;}
 .campus-size{font-size:18px;}
 #primary-menu ul ul li:hover > a{color:#929292 !important;}
 #primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title:hover > a{color:#444 !important;}
