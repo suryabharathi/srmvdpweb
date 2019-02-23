@@ -245,7 +245,8 @@
 .action-btn ul{list-style: outside none none; text-align: center;margin-bottom:4px;}
 .action-btn ul li{display:inline-block;}
 .action-btn ul li a{height:36px;width:40px;line-height:36px;display:inline-block;}
-.action-btn ul li a.call{background-image:url(../images/icons/call-icon.png);background-repeat:no-repeat;background-position:center;}
+.action-btn ul li a.call{background-image:url(../images/
+	s/call-icon.png);background-repeat:no-repeat;background-position:center;}
 .action-btn ul li a.whatsapp{background-image:url(../images/icons/whatsapp.png);background-repeat:no-repeat;background-position:center;}
 .action-btn ul li a.chat{background-image:url(../images/icons/chat-icon.png);background-repeat:no-repeat;background-position:center;}
 .action-btn ul li a.map{background-image:url(../images/icons/map-icon.png);background-repeat:no-repeat;background-position:center;}
